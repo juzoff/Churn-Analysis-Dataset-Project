@@ -1,5 +1,4 @@
 # Churn Analysis Dataset Project
-Analyzed a Churn dataset to identify factors influencing customer retention. Cleaned and explored the data, then built and compared Decision Tree and Naïve Bayes models. Derived actionable insights and recommendations to enhance retention and reduce churn rates.
 
 **Note: This project is organized into multiple branches on GitHub, each correlating with a different portion of the assignment. To explore specific sections, please select the branch that corresponds to the task or analysis you are interested in. This structure allows for a focused review of each component of the project, making it easier to follow along with the data preparation, modeling, and evaluation processes.**
 
@@ -7,9 +6,11 @@ Analyzed a Churn dataset to identify factors influencing customer retention. Cle
 
 **Tools Used:** Python and SAS were primarily used for data preparation, modeling, and analysis.
 
-**Project Description:**
+**>THE PROJECT WAS DIVIDED INTO THE FOLLOWING PARTS:**
 
-*   **Data Collection:** I started by obtaining the Churn dataset, which includes customer demographics, account information, and whether they churned (i.e., canceled their subscription/service).
+**Data Collection:**
+
+*   I started by obtaining the Churn dataset, which includes customer demographics, account information, and whether they churned (i.e., canceled their subscription/service).
 
 **Data Preparation:**
 
@@ -24,11 +25,11 @@ Analyzed a Churn dataset to identify factors influencing customer retention. Cle
 *   **Training and Test Sets:** The dataset was split into training and test sets using a 70/30 ratio to evaluate model performance on unseen data. Models were trained using both the full feature set and the selected feature set to compare their effectiveness. This allowed for a direct comparison of the models' performance on both the original and filtered datasets.
 *   **Model Evaluation:** I evaluated the models on training and test sets using performance metrics like accuracy, precision, recall, and F1-score. I compared the results between the models trained on all attributes versus those trained on selected attributes to determine which approach led to better predictive performance. Visualizations were created to represent the differences in confusion matrix outputs and performance metrics between the models using all attributes and those using selected attributes. These visuals are located in the appendix for reference.
 *   **Hyperparameter Tuning:** To optimize the models, I adjusted hyperparameters, such as tree depth for the Decision Tree and smoothing parameters for Naive Bayes, to achieve the best possible performance.
-*   **Model Interpretation:** I analyzed the final models to interpret the importance of different features. For example, understanding which customer attributes (e.g., age, job, previous outcomes) had the most significant impact on subscription decisions.
+*   **Model Interpretation:** I interpreted the final models to understand which features were the most influential in predicting customer churn. This included analyzing the importance of variables such as Day Charge, State, Night Calls, Eve Calls, etc. 
 
 **Conclusions and Recommendations:**
 
-*   **Results and Recommendations:** I summarized the findings, highlighting the key factors influencing customer decisions. Based on these insights, I provided recommendations to improve the bank's telemarketing strategies, such as targeting specific customer segments more effectively.
+*   **Results and Recommendations:** I summarized the key findings and provided actionable recommendations to reduce customer churn. Insights included targeting high-risk customers, improving customer service, and offering retention incentives tailored to specific customer segments.
 
 **Documentation and Reporting:**
 
