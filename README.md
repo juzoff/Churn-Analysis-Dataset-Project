@@ -1,3 +1,5 @@
+**Note: This project is organized into multiple branches on GitHub, each correlating with a different portion of the assignment. To explore specific sections, please select the branch that corresponds to the task or analysis you are interested in. This structure allows for a focused review of each component of the project, making it easier to follow along with the data preparation, modeling, and evaluation processes.**
+
 **Visualizing Insights, Conclusions, and Recommendations:**
 
 *   **Visualization of Insights:** I created visualizations to present the key findings and recommendations clearly. This included charts and graphs that highlighted trends in customer behavior, churn rates, and the impact of different factors on churn likelihood.
