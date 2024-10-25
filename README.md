@@ -55,6 +55,6 @@ The use of Tableau enriched the analysis by making complex data more intuitive, 
 The following copies of the workbook are included for easy access to visualizations and insights:
 
 - *Exported as PowerPoint {.pptx} (PowerPoint) - Dashboard*
-- *Exported as PowerPoint (ALL) {.pptx} (PowerPoint) - Dasboard + Individual Visualizations*
+- *Exported as PowerPoint (ALL) {.pptx} (PowerPoint) - Dashboard + Individual Visualizations*
 - *Exported as 2024 Version {.twb} (Tableau Workbook)*
 - *Exported as Packaged Workbook {.twbx} (Tableau Packaged Workbook)*
