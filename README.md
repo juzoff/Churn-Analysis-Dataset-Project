@@ -50,3 +50,11 @@ This project focuses on analyzing customer churn data to identify key drivers of
 
 The use of Tableau enriched the analysis by making complex data more intuitive, enabling stakeholders to make data-driven decisions easily. This dashboard exemplifies the power of data visualization in converting analytical insights into actionable strategies, equipping the business to implement effective customer retention efforts and improve overall performance.
 
+## Deliverables
+
+The following copies of the workbook are included for easy access to visualizations and insights:
+
+- *Exported as PowerPoint {.pptx} (PowerPoint) - Dashboard*
+- *Exported as PowerPoint (ALL) {.pptx} (PowerPoint) - Dasboard + Individual Visualizations*
+- *Exported as 2024 Version {.twb} (Tableau Workbook)*
+- *Exported as Packaged Workbook {.twbx} (Tableau Packaged Workbook)*
